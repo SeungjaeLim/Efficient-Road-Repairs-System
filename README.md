@@ -2,9 +2,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Docker](https://img.shields.io/badge/Docker-20.10.7-blue)
-![CUDA](https://img.shields.io/badge/CUDA-11.7-green)
+![CUDA](https://img.shields.io/badge/CUDA-12.2-green)
 ![VLLM](https://img.shields.io/badge/VLLM-0.6.3-orange)
-![PHI](https://img.shields.io/badge/Phi-3.5-yellow)
+![Microsoft Phi](https://img.shields.io/badge/Microsoft-Phi_3.5_vision_instruct-blue)
+![PyTorch](https://img.shields.io/badge/Torch-2.4.0-red)
+![Transformers](https://img.shields.io/badge/Transformers-4.46.1-purple)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.0-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115.4-teal)
+
 
 ## Overview
 
