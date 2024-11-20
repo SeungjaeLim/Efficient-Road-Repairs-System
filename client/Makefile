@@ -15,19 +15,18 @@ help:
 
 preprocess:
 	@echo "Running preprocess step"
-	@docker 
+	@docker
 
 build:
 	@echo "Building Docker image"
 	@docker build . -t phi-client
 run:
-	@echo "Running Docker container with GPU support"
-	@docker run -it --gpus "device=3" --ipc=host \
-		-v `pwd`:/workspace -p 5000:5000 --name flask-server-container flask-server
+	@echo "Running Flask Docker container"
+	@python Flask_Server.py
 
 up: build run
 
-rm: 
+rm:
 	@echo "Removing Docker container"
 	@docker rm phi-client
 
