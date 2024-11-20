@@ -37,6 +37,11 @@ stop:
 	@echo "Stopping Docker container"
 	docker stop flask-app || true
 
+start:
+	@echo "Starting Flask Docker container"
+	@docker start flask-app || echo "No container found. Please run 'make up' to create and start the container."
+
+
 reset: stop rm
 
 docker-setup:
