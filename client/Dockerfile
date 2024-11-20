@@ -15,11 +15,12 @@ COPY . /workspace
 
 # Install Python dependencies
 RUN pip install flask openai
-RUN pip install --upgrade openai
-
 
 # Create directories for the Flask server's history folders
 RUN mkdir -p /workspace/HISTORY_IMAGE /workspace/HISTORY_LABEL
 
 # Expose the Flask server's port
 EXPOSE 5000
+
+# Default command to run the Flask app
+CMD ["python", "Flask_Server.py"]
