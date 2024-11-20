@@ -1,22 +1,26 @@
+# Base image for Python and PyTorch
 FROM nvcr.io/nvidia/pytorch:23.10-py3
 
-# Upgrade pip
-RUN python -m pip install --upgrade pip
+# Upgrade pip and update system
+RUN python -m pip install --upgrade pip \
+    && apt-get update && apt-get install -y \
+    git \
+    && apt-get clean
 
-# Update and install git
-RUN apt-get update && apt-get install git -y
+# Set working directory
+WORKDIR /workspace
 
-# Create a workspace directory and set it as the working directory
-RUN mkdir -p /workspace 
-WORKDIR /workspace 
+# Copy application files
+COPY . /workspace
 
-# Install vllm and configure pip with retry and timeout options to avoid installation timeouts
+# Install Python dependencies
+RUN pip install flask openai
 
-# Expose port 8000
-EXPOSE 8000:8000
+# Create directories for the Flask server's history folders
+RUN mkdir -p /workspace/HISTORY_IMAGE /workspace/HISTORY_LABEL
 
-RUN pip install vllm
+# Expose the Flask server's port
+EXPOSE 5000
 
-# Test PyTorch installation and CUDA availability
-RUN python -c "import torch; print(torch.__version__)"
-RUN python -c "import torch; print(torch.cuda.is_available())"
+# Command to run the Flask server
+CMD ["python", "Flask_Server.py"]
