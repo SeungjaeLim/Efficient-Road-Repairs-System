@@ -52,13 +52,24 @@ def process_image():
         image_filename = f"{IMAGE_FOLDER}/image_{timestamp}.jpg"
         label_filename = f"{LABEL_FOLDER}/label_{timestamp}.txt"
 
+
+        """ 인풋으로 오는 JSON 값
+        { 
+          "image": "BASE64_ENCODED_IMAGE_DATA",
+          "labels": "2 100 100 200 200,3 50 50 120 120"    bounding box는 ,로 구분
+        }
+        """
+
         # 이미지를 디코딩하여 파일로 저장
         with open(image_filename, "wb") as img_file:
-            img_file.write(base64.b64decode(image_base64.split(",")[1]))
+            img_file.write(base64.b64decode(image_base64))
 
         # 라벨 데이터를 텍스트 파일로 저장
         with open(label_filename, "w") as lbl_file:
             lbl_file.write(labels)
+
+
+        #전처리해야할 필요 존재
 
         # LMM 서버로 요청 생성
         chat_completion = client.chat.completions.create(
@@ -82,6 +93,10 @@ def process_image():
 
         # 결과 반환
         result = chat_completion.choices[0].message.content
+
+        
+        #RAG 적용부
+        
         return jsonify({"message": "Image and labels saved successfully", "lmm_result": result}), 200
 
     except Exception as e:
