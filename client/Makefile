@@ -21,8 +21,9 @@ build:
 	@echo "Building Docker image"
 	@docker build . -t phi-client
 run:
-	@echo "Booting up Docker Container"
-	@docker run -it --gpus "device=3" --ipc=host --network phi --name phi-client -v `pwd`:/workspace phi-client:latest /bin/bash
+	@echo "Running Docker container with GPU support"
+	@docker run -it --gpus "device=3" --ipc=host \
+		-v `pwd`:/workspace -p 5000:5000 --name flask-server-container flask-server
 
 up: build run
 
