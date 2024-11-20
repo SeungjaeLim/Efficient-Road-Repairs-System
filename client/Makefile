@@ -1,13 +1,14 @@
+# Default target
 default: build
 
 help:
-	@echo 'Management commands for phi-client:'
+	@echo 'Management commands for Flask application:'
 	@echo
 	@echo 'Usage:'
-	@echo '    make build            Build the phi-client project.'
-	@echo '    make preprocess       Preprocess step.'
-	@echo '    make run              Boot up Docker container.'
-	@echo '    make up               Build and run the project.'
+	@echo '    make build            Build the Flask application Docker image.'
+	@echo '    make preprocess       Preprocess step (placeholder).'
+	@echo '    make run              Run the Flask application Docker container.'
+	@echo '    make up               Build and run the Flask application.'
 	@echo '    make rm               Remove Docker container.'
 	@echo '    make stop             Stop Docker container.'
 	@echo '    make reset            Stop and remove Docker container.'
@@ -15,33 +16,35 @@ help:
 
 preprocess:
 	@echo "Running preprocess step"
-	@docker
+	# Placeholder command for preprocessing
+	@echo "Preprocess step completed."
 
 build:
 	@echo "Building Docker image"
-	@docker build . -t phi-client
+	docker build . -t flask-app
+
 run:
 	@echo "Running Flask Docker container"
-	@python Flask_Server.py
+	docker run -d --name flask-app -p 5000:5000 flask-app
 
 up: build run
 
 rm:
 	@echo "Removing Docker container"
-	@docker rm phi-client
+	docker rm -f flask-app || true
 
 stop:
 	@echo "Stopping Docker container"
-	@docker stop phi-client
+	docker stop flask-app || true
 
 reset: stop rm
 
 docker-setup:
 	@echo "Setting up Docker permissions for the current user"
-	@sudo groupadd docker || true
-	@sudo usermod -aG docker $(USER)
-	@newgrp docker
+	sudo groupadd docker || true
+	sudo usermod -aG docker $(USER)
+	newgrp docker
 
 commit:
 	@echo "Committing changes to Docker image"
-	@docker commit phi-client phi-client:latest
+	docker commit flask-app flask-app:latest
