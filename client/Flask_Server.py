@@ -40,6 +40,8 @@ def process_image():
     YOLO 결과를 히스토리 폴더에 저장하며, LMM 서버에 전달 하기.
     """
     try:
+        print("Request received")
+        
         # 요청 데이터 파싱
         data = request.json
         if "image" not in data or "labels" not in data:
