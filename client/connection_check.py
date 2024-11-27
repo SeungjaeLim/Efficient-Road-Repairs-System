@@ -6,7 +6,7 @@ import base64
 SERVER_URL = "http://127.0.0.1:5000/process"
 
 # 현재 디렉터리의 이미지 파일 경로
-image_path = os.path.join("./HISTORY_LABEL/1.jpg")
+image_path = os.path.join("./example.jpg")
 
 # 레이블 데이터 (예: YOLO 형식의 바운딩 박스 정보)
 labels = "2 100 100 200 200,3 50 50 120 120"
