@@ -4,6 +4,7 @@ import os
 import socket
 from datetime import datetime
 from openai import OpenAI
+from Crack_Agent_prompt import crack_agent_prompt
 
 # Flask 앱 초기화
 app = Flask(__name__)
@@ -71,6 +72,8 @@ def process_image():
 
         #전처리해야할 필요 존재
 
+        #RAG 적용부
+
         # LMM 서버로 요청 생성
         chat_completion = client.chat.completions.create(
             messages=[{
@@ -78,7 +81,7 @@ def process_image():
                 "content": [
                     {
                         "type": "text",
-                        "text": f"Process this image with the following labels:\n{labels}"
+                        "text": crack_agent_prompt
                     },
                     {
                         "type": "image_url",
@@ -94,9 +97,7 @@ def process_image():
         # 결과 반환
         result = chat_completion.choices[0].message.content
 
-        
-        #RAG 적용부
-        
+
         return jsonify({"message": "Image and labels saved successfully", "lmm_result": result}), 200
 
     except Exception as e:
