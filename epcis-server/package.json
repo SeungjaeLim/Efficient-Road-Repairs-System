@@ -1,0 +1,32 @@
+{
+  "name": "epcis-application-2.0",
+  "version": "1.0.0",
+  "description": "provides library to constract events to capture to epcis and query from epcis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yalewkidane/epcis-application-2.0.git"
+  },
+  "keywords": [
+    "GS1",
+    "EPCIS",
+    "DigitalLink"
+  ],
+  "author": "Yalew",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yalewkidane/epcis-application-2.0/issues"
+  },
+  "homepage": "https://github.com/yalewkidane/epcis-application-2.0#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mqtt": "^5.3.0",
+    "request": "^2.88.2",
+    "swagger-ui-express": "^4.6.0",
+    "websocket": "^1.0.34"
+  }
+}

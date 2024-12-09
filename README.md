@@ -23,10 +23,12 @@ The Efficient Road Repairs System is designed to streamline road maintenance by 
 │   ├── Dockerfile
 │   ├── Makefile
 │   └── openai_chat_completion_client_for_multimodal.py
-└── server
-    ├── Dockerfile
-    ├── Makefile
-    └── run_server.sh
+├── server
+│   ├── Dockerfile
+│   ├── Makefile
+│   └── run_server.sh
+└── epcis-server
+    └── openApi.js
 ```
 
 ## Prerequisites
@@ -41,6 +43,15 @@ To allow communication between client and server containers, create a Docker net
 
 ```bash
 docker network create phi
+```
+
+### Step 2: Start EPCIS Server
+Follow the commands to set up and run the EPCIS server:
+
+```
+cd epcis-server
+npm install
+node openApi.js
 ```
 
 ### Step 2: Run the Server

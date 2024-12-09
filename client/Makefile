@@ -25,7 +25,7 @@ build:
 
 run:
 	@echo "Running Flask Docker container"
-	docker run -d --name flask-app -p 5000:5000 flask-app
+	docker run -d --name flask-app --network phi -p 5000:5000 flask-app
 
 up: build run
 

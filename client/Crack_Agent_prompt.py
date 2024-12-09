@@ -38,7 +38,7 @@ You are an agent that evaluates road cracks and determines repair costs.
 
 ---
 
-**Input**: Road crack image
+**Input**: Road crack image, label x1 y1 x2 y2
 **Output**: Analyzed crack data, calculated repair costs, and the final receipt table
 
 ---
@@ -62,4 +62,6 @@ You are an agent that evaluates road cracks and determines repair costs.
 5              100
 
 Total Cost: $1300
+---
+Road crash crack size is 2m x 1m
 """
