@@ -1,0 +1,42 @@
+version: "3"
+services:
+       epcis:
+           container_name: epcis
+           image: yaledoc/epcis2
+           restart: always
+           environment:
+            - RunningonDocker=true
+            - RunningMqtt=true
+            - PORT=8090
+            - REDIS_HOST_DOCKER=redis
+           build: .
+           command: node bootstrap.js   #index_https.js   #node cluster.js  #node authorized.js  #node index.js
+           ports:
+             - "8090:8090"
+           links:
+             - mongo
+             - mosquitto
+             - redis
+
+       mongo:
+             container_name: mongo
+             image: mongo:3.6.8
+             volumes:
+               - ../data:/data/db
+             ports:
+               - '27018:27017'
+       mosquitto:
+            image: eclipse-mosquitto:2
+            container_name: mqtt_broker
+            ports:
+              - 1883:1883
+              - 9001:9001
+            volumes:
+              - ./src/mosquitto/config/mosquitto.conf:/mosquitto/config/mosquitto.conf
+              - ./src/mosquitto/data:/mosquitto/data
+       redis:
+            image: redis
+            container_name: redis
+            command: redis-server --appendonly yes --requirepass 123456
+            ports:
+              - "6379:6379"

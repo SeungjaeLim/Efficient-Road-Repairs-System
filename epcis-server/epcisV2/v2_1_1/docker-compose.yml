@@ -1,0 +1,38 @@
+version: "3"
+services:
+       epcis:
+           container_name: epcis
+           image: yaledoc/epcis2:1.1
+           restart: always
+           environment:
+            - RunningonDocker=true
+            - RunningMqtt=true
+            - PORT=8090
+           build: .
+           command: node index.js           #node cluster.js  #node authorized.js  #node index.js
+           ports:
+             - "8090:8090"
+           links:
+             - mongo
+             - mosquitto
+
+       mongo:
+             container_name: mongo
+             image: mongo:3.6.8
+             volumes:
+               - ../data:/data/db
+             ports:
+               - '27018:27017'
+       mosquitto:
+            image: eclipse-mosquitto:2
+            container_name: mqtt_broker
+            ports:
+              - 1883:1883
+              - 9001:9001
+            volumes:
+              - ./src/mosquitto/config/mosquitto.conf:/mosquitto/config/mosquitto.conf
+              - ./src/mosquitto/data:/mosquitto/data
+
+
+
+               
