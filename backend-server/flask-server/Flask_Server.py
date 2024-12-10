@@ -10,7 +10,7 @@ from Crack_Agent_prompt import crack_agent_prompt
 app = Flask(__name__)
 
 # 설정
-LMM_SERVER_URL = "http://phi-server:8000/v1"  # LMM 서버 URL
+LMM_SERVER_URL = "http://localhost:8082/v1"  # LMM 서버 URL
 
 # 폴더 생성
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))

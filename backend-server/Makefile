@@ -27,7 +27,7 @@ run:
 	@echo "Booting up Docker Container"
 	@echo "Running rrsys-server"
 	@docker run -p 5000:5000 -p 8082:8082 \
-		--network phi -it --gpus "device=0" --ipc=host \
+		-it --gpus "device=0" --ipc=host \
 		--name rrsys-server -v `pwd`:/workspace rrsys:latest /bin/bash
 
 up: build run
