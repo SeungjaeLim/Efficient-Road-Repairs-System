@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 import os
 from datetime import datetime
 from openai import OpenAI
@@ -42,6 +42,14 @@ def encode_base64_image(image_path):
     """이미지를 Base64 형식으로 인코딩"""
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode('utf-8')
+
+@app.route('/static/images/<path:filename>', methods=['GET'])
+def serve_image(filename):
+    full_path = os.path.join(CROPPED_FOLDER, filename)
+    print(f"Serving file from: {full_path}")  # 디버깅 로그 추가
+    if not os.path.exists(full_path):
+        print(f"File not found: {full_path}")
+    return send_from_directory(CROPPED_FOLDER, filename)
 
 @app.route('/process', methods=['POST'])
 def process_image_and_json():
