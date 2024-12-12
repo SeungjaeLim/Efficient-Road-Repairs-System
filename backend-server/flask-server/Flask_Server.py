@@ -4,9 +4,10 @@ from datetime import datetime
 from openai import OpenAI
 from Crack_Agent_prompt import crack_agent_prompt
 import json
-from PIL import Image
+from PIL import Image, ImageDraw
 from io import BytesIO
 import base64
+import requests
 
 # Flask 앱 초기화
 app = Flask(__name__)
@@ -41,8 +42,6 @@ def encode_base64_image(image_path):
     """이미지를 Base64 형식으로 인코딩"""
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode('utf-8')
-
-from PIL import Image, ImageDraw
 
 @app.route('/process', methods=['POST'])
 def process_image_and_json():
@@ -137,20 +136,71 @@ def process_image_and_json():
         output_json_path = os.path.join(LABEL_FOLDER, f"output_{timestamp}.json")
         with open(output_json_path, "w") as output_file:
             json.dump(parsed_result, output_file, indent=4)
+        # EPCIS 서버로 POST 요청
+        epcis_post_data = {
+            "@context": [
+                "https://ref.gs1.org/standards/epcis/2.0.0/epcis-context.jsonld",
+                {
+                    "https://yourdomain.com/damageType": "https://yourdomain.com/vocab/damageType",
+                    "https://yourdomain.com/dimensions": "https://yourdomain.com/vocab/dimensions",
+                    "https://yourdomain.com/repairCost": "https://yourdomain.com/vocab/repairCost",
+                    "https://yourdomain.com/repairItems": "https://yourdomain.com/vocab/repairItems",
+                    "https://yourdomain.com/filename": "https://yourdomain.com/vocab/filename"
+                }
+            ],
+            "type": "ObjectEvent",
+            "action": "ADD",
+            "bizStep": "repairing",
+            "disposition": "in_progress",
+            "epcList": ["urn:epc:id:road:0012345"],
+            "eventTime": datetime.now().isoformat() + "Z",
+            "eventTimeZoneOffset": "+00:00",
+            "readPoint": {
+                "id": "urn:epc:id:geo:37.7750,-122.4195"
+            },
+            "ilmd": {
+                "https://yourdomain.com/dimensions": {
+                    "Width": parsed_result.get("Dimensions", {}).get("Width", 0),
+                    "Height": parsed_result.get("Dimensions", {}).get("Height", 0)
+                },
+                "https://yourdomain.com/damageType": parsed_result.get("Damage Type", ""),
+                "https://yourdomain.com/repairCost": {
+                    "TotalCost": parsed_result.get("Repair Cost", 0),
+                    "items": parsed_result.get("Repair Items", [])
+                },
+                "https://yourdomain.com/filename": os.path.basename(boxed_image_path)
+            }
+        }
+        headers = {
+            "Content-Type": "application/json",
+            "GS1-EPCIS-Version": "2.0.0",
+            "GS1-CBV-Version": "2.0.0"
+        }
+        epcis_server_url = "http://192.168.4.7:8090/epcis/v2/events"
+        response = requests.post(epcis_server_url, headers=headers, json=epcis_post_data)
+
+        if response.status_code not in [200, 201, 202]:
+            return jsonify({
+                "error": "Failed to send POST request to EPCIS server",
+                "status_code": response.status_code,
+                "response_text": response.text
+            }), response.status_code
 
         # 성공적으로 처리된 응답 반환
         return jsonify({
-            "message": "Processed successfully",
+            "message": "Processed successfully and sent to EPCIS server",
             "input": lmm_input,
             "original_image_path": original_image_path,
             "boxed_image_path": boxed_image_path,
             "resized_image_path": resized_image_path,
             "output_json_path": output_json_path,
-            "lmm_result": parsed_result
+            "lmm_result": parsed_result,
+            "epcis_response": response.text
         }), 200
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
 
 
 @app.route('/health', methods=['GET'])

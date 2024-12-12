@@ -38,7 +38,7 @@ def send_data_to_server(json_data, images_dir):
                 # 서버로 POST 요청
                 response = requests.post(SERVER_URL, files=files, data=data)
                 
-                if response.status_code == 200:
+                if response.status_code == 200 or response.status_code == 202:
                     print(f"Success for {filename}: {response.json()}")
                 else:
                     print(f"Error for {filename}: {response.status_code} {response.text}")

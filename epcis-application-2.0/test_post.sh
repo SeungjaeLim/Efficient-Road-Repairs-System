@@ -4,6 +4,9 @@
 SERVER_URL="http://localhost:8090/epcis/v2/events"
 DOMAIN="https://yourdomain.com"
 
+# 임의의 파일 이름 설정
+FILENAME="example.jpg"
+
 # POST 요청 데이터 정의
 POST_DATA=$(cat <<EOF
 {
@@ -13,7 +16,8 @@ POST_DATA=$(cat <<EOF
       "$DOMAIN/damageType": "$DOMAIN/vocab/damageType",
       "$DOMAIN/dimensions": "$DOMAIN/vocab/dimensions",
       "$DOMAIN/repairCost": "$DOMAIN/vocab/repairCost",
-      "$DOMAIN/repairItems": "$DOMAIN/vocab/repairItems"
+      "$DOMAIN/repairItems": "$DOMAIN/vocab/repairItems",
+      "$DOMAIN/filename": "$DOMAIN/vocab/filename"
     }
   ],
   "type": "ObjectEvent",
@@ -66,7 +70,8 @@ POST_DATA=$(cat <<EOF
           "UnitPrice": 100
         }
       ]
-    }
+    },
+    "$DOMAIN/filename": "$FILENAME"
   }
 }
 EOF
@@ -99,5 +104,6 @@ echo "$GET_RESPONSE" | jq --arg DOMAIN "$DOMAIN" '.epcisBody.queryResults.result
   "Damage Type": .ilmd[$DOMAIN + "/damageType"],
   "Repair Cost": .ilmd[$DOMAIN + "/repairCost"].TotalCost,
   "Repair Items": .ilmd[$DOMAIN + "/repairCost"].items,
-  "Dimensions": .ilmd[$DOMAIN + "/dimensions"]
+  "Dimensions": .ilmd[$DOMAIN + "/dimensions"],
+  "Filename": .ilmd[$DOMAIN + "/filename"]
 }' || echo "Error: Please ensure jq is installed to format the output."
