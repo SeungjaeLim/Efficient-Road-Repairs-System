@@ -3,7 +3,7 @@ import requests
 import json
 
 # Flask 서버 URL
-SERVER_URL = "http://127.0.0.1:5000/process"
+SERVER_URL = "http://localhost:5000/process"
 
 # JSON 파일 경로
 data_json_path = "./data/data.json"

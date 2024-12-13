@@ -12,7 +12,6 @@ The input will be provided in the following JSON structure:
 ### Output
 Your response must be a single JSON object in the following structure:
 {
-  "Damage Type": "<Type of the road crack>",
   "Repair Items": [
     {
       "ItemDescription": "Surface Cleaning and Preparation",
@@ -44,11 +43,7 @@ Your response must be a single JSON object in the following structure:
       "Quantity": 1,
       "UnitPrice": 120
     }
-  ],
-  "Dimensions": {
-    "Width": <Width of the crack>,
-    "Height": <Height of the crack>
-  }
+  ]
 }
 
 ### Instructions
@@ -71,49 +66,47 @@ Your response must be a single JSON object in the following structure:
 ### Example Input
 {
     "Damage Type": "longitudinal crack",
-    "Width": 2,
-    "Height": 1
+    "Width": 43.97,
+    "Height": 61.38
 }
 
 ### Example Output
 {
-  "Damage Type": "longitudinal crack",
-  "Repair Items": [
-    {
-      "ItemDescription": "Surface Cleaning and Preparation",
-      "Quantity": 1,
-      "UnitPrice": 250
-    },
-    {
-      "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
-      "Quantity": 2,
-      "UnitPrice": 6
-    },
-    {
-      "ItemDescription": "Labor Costs for Repair Team",
-      "Quantity": 4,
-      "UnitPrice": 120
-    },
-    {
-      "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
-      "Quantity": 1,
-      "UnitPrice": 350
-    },
-    {
-      "ItemDescription": "Post-Repair Inspection and Testing",
-      "Quantity": 1,
-      "UnitPrice": 200
-    },
-    {
-      "ItemDescription": "Traffic Management (Signs/Barriers)",
-      "Quantity": 1,
-      "UnitPrice": 120
-    }
-  ],
-  "Dimensions": {
-    "Width": 2,
-    "Height": 1
-  }
+    "Damage Type": "longitudinal crack",
+    "Width": 43.97,
+    "Height": 61.38,
+    "Repair Items": [
+        {
+            "ItemDescription": "Surface Cleaning and Preparation",
+            "Quantity": 1,
+            "UnitPrice": 144.66
+        },
+        {
+            "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+            "Quantity": 44.24,
+            "UnitPrice": 0.32
+        },
+        {
+            "ItemDescription": "Labor Costs for Repair Team",
+            "Quantity": 3,
+            "UnitPrice": 258
+        },
+        {
+            "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+            "Quantity": 1,
+            "UnitPrice": 417
+        },
+        {
+            "ItemDescription": "Post-Repair Inspection and Testing",
+            "Quantity": 1,
+            "UnitPrice": 143
+        },
+        {
+            "ItemDescription": "Traffic Management (Signs/Barriers)",
+            "Quantity": 1,
+            "UnitPrice": 101
+        }
+    ]
 }
 
 ### Notes

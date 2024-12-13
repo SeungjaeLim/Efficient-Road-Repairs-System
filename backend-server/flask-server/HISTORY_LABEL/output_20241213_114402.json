@@ -1,0 +1,46 @@
+{
+    "Repair Items": [
+        {
+            "ItemDescription": "Surface Cleaning and Preparation",
+            "Quantity": 1,
+            "UnitPrice": 300,
+            "TotalPrice": 300
+        },
+        {
+            "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+            "Quantity": 151.74,
+            "UnitPrice": 0.6,
+            "TotalPrice": 91.044
+        },
+        {
+            "ItemDescription": "Labor Costs for Repair Team",
+            "Quantity": 4,
+            "UnitPrice": 100,
+            "TotalPrice": 400
+        },
+        {
+            "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+            "Quantity": 1,
+            "UnitPrice": 400,
+            "TotalPrice": 400
+        },
+        {
+            "ItemDescription": "Post-Repair Inspection and Testing",
+            "Quantity": 1,
+            "UnitPrice": 200,
+            "TotalPrice": 200
+        },
+        {
+            "ItemDescription": "Traffic Management (Signs/Barriers)",
+            "Quantity": 1,
+            "UnitPrice": 100,
+            "TotalPrice": 100
+        }
+    ],
+    "Repair Cost": 1491.0439999999999,
+    "Dimensions": {
+        "Width": 39.26999999999998,
+        "Height": 46.98000000000002
+    },
+    "Damage Type": "longitudinal crack"
+}

@@ -1,0 +1,3702 @@
+[
+    {
+        "Damage Type": "other corruption",
+        "Width": 65.06,
+        "Height": 61.07,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 522.22
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 158.82,
+                "UnitPrice": 0.02
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 256
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 320
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 238
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 117
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 29.6,
+        "Height": 91.51,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 482.76
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 256.44,
+                "UnitPrice": 0.17
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 178
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 323
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 243
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 60
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 59.53,
+        "Height": 28.4,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 334.88
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 109.25,
+                "UnitPrice": 0.37
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 205
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 498
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 198
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 146
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 8.19,
+        "Height": 4.56,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 8.48
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 1.81,
+                "UnitPrice": 4.54
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 103
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 430
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 208
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 149
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 65.94,
+        "Height": 15.01,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 133.57
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 74.93,
+                "UnitPrice": 0.67
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 175
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 385
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 287
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 68
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 6.02,
+        "Height": 84.6,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 103.78
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 39.55,
+                "UnitPrice": 0.71
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 200
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 486
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 253
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 92
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 43.97,
+        "Height": 61.38,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 144.66
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 44.24,
+                "UnitPrice": 0.32
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 258
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 417
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 143
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 101
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 8.6,
+        "Height": 76.18,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 22.22
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 20.75,
+                "UnitPrice": 0.59
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 230
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 492
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 131
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 60
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 44.61,
+        "Height": 72.41,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 166.56
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 192.51,
+                "UnitPrice": 0.19
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 198
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 366
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 239
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 56
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 6.29,
+        "Height": 8.5,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 2.41
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 4.69,
+                "UnitPrice": 5.72
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 111
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 332
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 202
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 55
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 5.7,
+        "Height": 58.07,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 71.57
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 29.2,
+                "UnitPrice": 0.69
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 1,
+                "UnitPrice": 196
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 404
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 296
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 116
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 13.4,
+        "Height": 43.68,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 106.48
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 24.34,
+                "UnitPrice": 0.06
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 180
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 410
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 191
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 122
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 49.77,
+        "Height": 56.66,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 361.21
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 158.61,
+                "UnitPrice": 0.1
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 1,
+                "UnitPrice": 205
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 422
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 288
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 57
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 62.45,
+        "Height": 22.69,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 39.69
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 67.78,
+                "UnitPrice": 0.46
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 113
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 323
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 230
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 72
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 5.71,
+        "Height": 4.59,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 4.15
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 0.92,
+                "UnitPrice": 28.41
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 1,
+                "UnitPrice": 134
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 374
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 137
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 63
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 89.28,
+        "Height": 74.76,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 598.14
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 91.83,
+                "UnitPrice": 0.06
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 247
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 419
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 235
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 55
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 85.06,
+        "Height": 26.41,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 518.03
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 174.36,
+                "UnitPrice": 0.09
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 233
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 356
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 139
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 102
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 97.11,
+        "Height": 81.53,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 1078.58
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 590.36,
+                "UnitPrice": 0.11
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 288
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 412
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 270
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 68
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 46.07,
+        "Height": 91.47,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 657.88
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 57.84,
+                "UnitPrice": 0.09
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 254
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 435
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 168
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 76
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 14.95,
+        "Height": 14.04,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 13.31
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 11.29,
+                "UnitPrice": 2.19
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 110
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 472
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 135
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 88
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 53.5,
+        "Height": 61.15,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 621.38
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 51.94,
+                "UnitPrice": 0.27
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 1,
+                "UnitPrice": 239
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 392
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 110
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 139
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 74.44,
+        "Height": 73.25,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 959.47
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 186.76,
+                "UnitPrice": 0.15
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 151
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 443
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 281
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 52
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 82.78,
+        "Height": 31.81,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 359.35
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 136.27,
+                "UnitPrice": 0.22
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 131
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 314
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 234
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 144
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 79.71,
+        "Height": 89.82,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 778.74
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 311.65,
+                "UnitPrice": 0.11
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 175
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 449
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 235
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 143
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 95.76,
+        "Height": 95.08,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 209.01
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 708.15,
+                "UnitPrice": 0.02
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 148
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 340
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 285
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 97
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 72.15,
+        "Height": 1.41,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 8.96
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 7.81,
+                "UnitPrice": 4.02
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 216
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 468
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 218
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 149
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 30.08,
+        "Height": 13.53,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 89.9
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 4.97,
+                "UnitPrice": 0.25
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 184
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 408
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 111
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 58
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 25.65,
+        "Height": 2.28,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 14.34
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 2.3,
+                "UnitPrice": 10.75
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 106
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 369
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 289
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 78
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 2.27,
+        "Height": 43.24,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 13.75
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 4.52,
+                "UnitPrice": 9.31
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 275
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 357
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 297
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 84
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 79.58,
+        "Height": 53.14,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 642.26
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 380.99,
+                "UnitPrice": 0.05
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 114
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 388
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 251
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 80
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 60.72,
+        "Height": 72.44,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 381.02
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 43.56,
+                "UnitPrice": 0.11
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 218
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 359
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 269
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 120
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 2.78,
+        "Height": 34.61,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 20.62
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 8.46,
+                "UnitPrice": 7.65
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 278
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 312
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 149
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 140
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 22.32,
+        "Height": 66.18,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 168.05
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 89.54,
+                "UnitPrice": 0.03
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 178
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 363
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 172
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 97
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 70.81,
+        "Height": 89.6,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 949.55
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 564.2,
+                "UnitPrice": 0.12
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 182
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 362
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 285
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 96
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 11.15,
+        "Height": 21.92,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 46.5
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 5.52,
+                "UnitPrice": 1.02
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 197
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 395
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 166
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 95
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 74.77,
+        "Height": 42.91,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 676.88
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 168.61,
+                "UnitPrice": 0.0
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 249
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 409
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 134
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 88
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 69.47,
+        "Height": 45.31,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 115.93
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 60.18,
+                "UnitPrice": 0.23
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 205
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 488
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 176
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 99
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 89.59,
+        "Height": 7.08,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 41.55
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 11.6,
+                "UnitPrice": 0.04
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 238
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 439
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 116
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 111
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 53.24,
+        "Height": 38.03,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 157.98
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 74.17,
+                "UnitPrice": 0.14
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 239
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 444
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 166
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 60
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 69.77,
+        "Height": 60.25,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 1006.31
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 172.38,
+                "UnitPrice": 0.09
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 119
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 325
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 232
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 146
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 5.2,
+        "Height": 26.37,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 26.13
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 5.02,
+                "UnitPrice": 5.18
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 238
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 307
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 272
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 142
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 66.01,
+        "Height": 78.38,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 836.28
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 397.92,
+                "UnitPrice": 0.11
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 120
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 328
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 295
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 111
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 68.98,
+        "Height": 9.45,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 81.84
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 21.33,
+                "UnitPrice": 1.42
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 292
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 393
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 137
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 140
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 45.51,
+        "Height": 73.26,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 717.58
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 83.92,
+                "UnitPrice": 0.24
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 199
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 424
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 170
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 105
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 96.33,
+        "Height": 52.77,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 1263.92
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 295.9,
+                "UnitPrice": 0.16
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 156
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 498
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 208
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 120
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 95.09,
+        "Height": 63.68,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 802.8
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 116.33,
+                "UnitPrice": 0.03
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 214
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 497
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 274
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 118
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 20.75,
+        "Height": 14.02,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 55.46
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 5.9,
+                "UnitPrice": 2.82
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 259
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 435
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 118
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 116
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 28.95,
+        "Height": 1.51,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 3.49
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 3.63,
+                "UnitPrice": 17.06
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 123
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 339
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 111
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 84
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 2.09,
+        "Height": 98.01,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 22.47
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 12.47,
+                "UnitPrice": 0.71
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 208
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 398
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 184
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 69
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 40.88,
+        "Height": 71.8,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 679.02
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 199.97,
+                "UnitPrice": 0.25
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 223
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 430
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 257
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 113
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 25.84,
+        "Height": 96.93,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 392.04
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 116.3,
+                "UnitPrice": 0.29
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 173
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 480
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 109
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 120
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 5.83,
+        "Height": 19.25,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 10.8
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 6.48,
+                "UnitPrice": 1.46
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 127
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 349
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 164
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 117
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 37.55,
+        "Height": 45.63,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 282.27
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 61.33,
+                "UnitPrice": 0.35
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 168
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 448
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 289
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 91
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 65.43,
+        "Height": 67.99,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 115.2
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 25.79,
+                "UnitPrice": 0.2
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 205
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 420
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 164
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 50
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 1.95,
+        "Height": 33.38,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 5.6
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 3.21,
+                "UnitPrice": 10.98
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 215
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 337
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 161
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 90
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 42.99,
+        "Height": 46.18,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 276.33
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 85.85,
+                "UnitPrice": 0.43
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 230
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 415
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 241
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 148
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 93.33,
+        "Height": 41.74,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 943.56
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 113.41,
+                "UnitPrice": 0.12
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 1,
+                "UnitPrice": 198
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 327
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 159
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 130
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 9.69,
+        "Height": 70.63,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 105.3
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 28.85,
+                "UnitPrice": 0.8
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 242
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 317
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 113
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 108
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 3.46,
+        "Height": 29.56,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 11.15
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 8.16,
+                "UnitPrice": 0.7
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 100
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 346
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 105
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 133
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 28.27,
+        "Height": 85.47,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 352.42
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 136.0,
+                "UnitPrice": 0.06
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 275
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 472
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 109
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 93
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 80.18,
+        "Height": 87.2,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 1103.72
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 288.07,
+                "UnitPrice": 0.06
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 265
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 499
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 228
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 130
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 39.02,
+        "Height": 60.42,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 74.47
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 162.84,
+                "UnitPrice": 0.29
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 145
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 301
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 135
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 128
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 66.35,
+        "Height": 87.27,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 870.96
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 357.98,
+                "UnitPrice": 0.17
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 246
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 434
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 185
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 143
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 12.13,
+        "Height": 30.87,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 56.26
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 26.19,
+                "UnitPrice": 1.33
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 134
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 402
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 215
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 145
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 32.71,
+        "Height": 58.98,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 178.29
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 156.4,
+                "UnitPrice": 0.27
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 1,
+                "UnitPrice": 216
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 408
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 221
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 56
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 42.42,
+        "Height": 99.47,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 629.96
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 186.61,
+                "UnitPrice": 0.03
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 236
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 443
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 291
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 138
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 88.42,
+        "Height": 46.86,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 543.71
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 235.59,
+                "UnitPrice": 0.19
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 280
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 447
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 186
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 67
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 61.23,
+        "Height": 58.66,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 325.08
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 154.45,
+                "UnitPrice": 0.27
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 285
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 451
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 109
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 129
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 49.08,
+        "Height": 88.46,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 895.75
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 290.93,
+                "UnitPrice": 0.2
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 121
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 362
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 105
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 115
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 15.4,
+        "Height": 93.27,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 297.86
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 122.5,
+                "UnitPrice": 0.29
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 171
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 378
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 235
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 129
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 55.31,
+        "Height": 23.0,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 260.97
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 75.06,
+                "UnitPrice": 0.55
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 196
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 325
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 237
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 56
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 84.62,
+        "Height": 71.88,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 614.54
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 570.04,
+                "UnitPrice": 0.07
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 288
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 361
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 146
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 89
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 25.48,
+        "Height": 80.42,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 48.33
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 173.8,
+                "UnitPrice": 0.1
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 209
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 334
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 186
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 125
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 10.69,
+        "Height": 14.63,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 38.46
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 6.64,
+                "UnitPrice": 6.29
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 152
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 475
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 136
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 107
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 23.04,
+        "Height": 93.27,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 514.43
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 117.67,
+                "UnitPrice": 0.04
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 112
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 462
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 118
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 145
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 79.14,
+        "Height": 55.08,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 419.02
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 200.21,
+                "UnitPrice": 0.05
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 180
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 392
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 134
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 95
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 35.18,
+        "Height": 78.6,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 571.14
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 133.01,
+                "UnitPrice": 0.23
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 127
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 407
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 266
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 93
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 39.6,
+        "Height": 16.93,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 127.82
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 64.05,
+                "UnitPrice": 1.1
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 175
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 425
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 200
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 103
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 58.52,
+        "Height": 74.35,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 394.95
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 372.74,
+                "UnitPrice": 0.16
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 247
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 386
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 257
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 91
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 56.32,
+        "Height": 40.59,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 407.49
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 124.08,
+                "UnitPrice": 0.03
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 230
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 392
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 285
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 135
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 74.27,
+        "Height": 30.94,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 437.32
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 195.14,
+                "UnitPrice": 0.09
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 297
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 374
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 295
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 117
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 90.92,
+        "Height": 86.72,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 520.89
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 495.69,
+                "UnitPrice": 0.08
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 197
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 432
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 290
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 93
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 91.38,
+        "Height": 33.62,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 263.45
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 267.12,
+                "UnitPrice": 0.08
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 200
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 392
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 293
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 95
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 37.96,
+        "Height": 44.67,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 393.3
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 133.6,
+                "UnitPrice": 0.21
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 1,
+                "UnitPrice": 188
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 485
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 295
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 69
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 74.59,
+        "Height": 93.14,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 482.19
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 183.38,
+                "UnitPrice": 0.11
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 184
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 438
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 105
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 107
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 41.94,
+        "Height": 13.99,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 145.14
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 37.16,
+                "UnitPrice": 0.66
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 299
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 313
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 189
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 143
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 56.35,
+        "Height": 30.28,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 204.83
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 9.44,
+                "UnitPrice": 0.23
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 141
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 401
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 170
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 84
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 24.42,
+        "Height": 23.13,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 87.2
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 7.74,
+                "UnitPrice": 1.2
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 289
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 463
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 204
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 53
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 94.36,
+        "Height": 32.9,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 562.79
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 143.07,
+                "UnitPrice": 0.28
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 202
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 416
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 242
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 71
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 82.11,
+        "Height": 51.27,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 115.28
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 181.96,
+                "UnitPrice": 0.13
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 4,
+                "UnitPrice": 159
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 386
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 186
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 81
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 12.46,
+        "Height": 8.72,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 19.67
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 2.72,
+                "UnitPrice": 2.12
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 160
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 309
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 201
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 90
+            }
+        ]
+    },
+    {
+        "Damage Type": "other corruption",
+        "Width": 52.97,
+        "Height": 92.26,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 459.8
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 427.09,
+                "UnitPrice": 0.14
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 260
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 412
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 177
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 65
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 65.97,
+        "Height": 91.73,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 482.46
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 330.4,
+                "UnitPrice": 0.14
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 219
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 457
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 112
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 66
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 34.88,
+        "Height": 98.06,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 226.5
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 248.63,
+                "UnitPrice": 0.05
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 246
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 490
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 234
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 149
+            }
+        ]
+    },
+    {
+        "Damage Type": "alligator crack",
+        "Width": 80.37,
+        "Height": 90.64,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 577.68
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 364.92,
+                "UnitPrice": 0.01
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 1,
+                "UnitPrice": 271
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 492
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 175
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 112
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 25.06,
+        "Height": 43.09,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 208.45
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 41.47,
+                "UnitPrice": 0.86
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 5,
+                "UnitPrice": 250
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 487
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 177
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 122
+            }
+        ]
+    },
+    {
+        "Damage Type": "longitudinal crack",
+        "Width": 71.31,
+        "Height": 75.66,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 1304.59
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 383.45,
+                "UnitPrice": 0.07
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 1,
+                "UnitPrice": 161
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 448
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 114
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 118
+            }
+        ]
+    },
+    {
+        "Damage Type": "transverse crack",
+        "Width": 97.93,
+        "Height": 73.08,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 1109.44
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 637.42,
+                "UnitPrice": 0.07
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 2,
+                "UnitPrice": 289
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 317
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 109
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 119
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 39.32,
+        "Height": 80.74,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 250.83
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 34.88,
+                "UnitPrice": 0.25
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 293
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 322
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 289
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 117
+            }
+        ]
+    },
+    {
+        "Damage Type": "pothole",
+        "Width": 95.39,
+        "Height": 86.19,
+        "Repair Items": [
+            {
+                "ItemDescription": "Surface Cleaning and Preparation",
+                "Quantity": 1,
+                "UnitPrice": 1535.44
+            },
+            {
+                "ItemDescription": "Crack Filling Material (Epoxy/Asphalt)",
+                "Quantity": 299.02,
+                "UnitPrice": 0.07
+            },
+            {
+                "ItemDescription": "Labor Costs for Repair Team",
+                "Quantity": 3,
+                "UnitPrice": 242
+            },
+            {
+                "ItemDescription": "Equipment Rental (Crack Sealing Machine)",
+                "Quantity": 1,
+                "UnitPrice": 481
+            },
+            {
+                "ItemDescription": "Post-Repair Inspection and Testing",
+                "Quantity": 1,
+                "UnitPrice": 235
+            },
+            {
+                "ItemDescription": "Traffic Management (Signs/Barriers)",
+                "Quantity": 1,
+                "UnitPrice": 73
+            }
+        ]
+    }
+]
