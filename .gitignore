@@ -1,0 +1,56 @@
+# Python 관련
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+*.venv
+env/
+venv/
+instance/
+.pytest_cache/
+.coverage
+*.sqlite3
+
+# Flask 관련
+instance/
+
+# Node.js 관련
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React 관련
+build/
+dist/
+
+# 환경 설정 파일
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtualenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Flask-Specific
+*.flaskenv
+
+# Local git ignore overrides
+!.gitignore
