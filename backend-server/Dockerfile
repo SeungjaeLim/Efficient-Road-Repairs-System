@@ -15,7 +15,14 @@ WORKDIR /workspace
 COPY . /workspace
 
 # Install Python dependencies
-RUN pip install --default-timeout=1000000 --no-cache-dir flask openai vllm 
+RUN pip install --default-timeout=1000000 --no-cache-dir \
+    flask \
+    openai \
+    vllm \
+    faiss-gpu \
+    Pillow \
+    sentence-transformers \
+    requests
 
 # Create directories for the Flask server's history folders
 RUN mkdir -p /workspace/client/HISTORY_IMAGE /workspace/client/HISTORY_LABEL
