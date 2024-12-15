@@ -17,6 +17,7 @@ The **Efficient Road Repairs System** utilizes **FPGA-porting** of **YOLO** to d
 
 - **YOLOv8 Damage Detection**: Trained on the RDD2022 dataset.
 - **FPGA Porting**: Optimized for in-vehicle black box systems.
+- **VLLM Serve**: Efficient, high-throughput inference for LLMs.
 - **Multimodal Inference**: Utilizing Phi 3.5 for damage analysis and cost estimation.
 - **Retrieval-Augmented Generation (RAG)**: Powered by FAISS for efficient data retrieval.
 - **EPCIS Integration**: Manages repair event tracking via GS1-compliant server.
@@ -135,7 +136,7 @@ rrsys
 - **Flask**: Backend API.
 - **React**: Frontend framework.
 - **FAISS**: Efficient similarity search for RAG.
-- **OpenAI API**: Multimodal inference.
+- **VLLM Serve**: Fast Multimodal inference.
 - **EPCIS**: Event tracking and integration.
 
 ## Contributions
