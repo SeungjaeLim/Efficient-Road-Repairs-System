@@ -9,8 +9,7 @@ const App = () => {
   const [events, setEvents] = useState([]);
   const [selectedEvent, setSelectedEvent] = useState(null);
   const [open, setOpen] = useState(false);
-
-  // 데이터 로드
+  
   useEffect(() => {
     axios
       .get("http://localhost:8090/epcis/v2/events", {
