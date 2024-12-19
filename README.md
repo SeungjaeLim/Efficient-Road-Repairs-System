@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://github.com/JJong84/ALLeX">
   </a>
-    <a href="https://github.com/SeungjaeLim/Efficient-Road-Repairs-System/blob/main/Final%20Project.pdf">Presentation</a>
+    <a href="https://github.com/SeungjaeLim/Efficient-Road-Repairs-System/blob/main/Team1_Final.pdf">Presentation</a>
     <a>&emsp;&emsp;</a>
     <a href="https://github.com/SeungjaeLim/Efficient-Road-Repairs-System/blob/main/Demo.mp4">Demo Video</a>
   </p>
