@@ -1,4 +1,7 @@
-# Efficient Road Repairs System
+![{012E35F3-F81B-41FD-92F1-7C0D4B68187F}](https://github.com/user-attachments/assets/3de63702-14e7-4cbb-a5d3-5ae34de97da3)
+
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Docker](https://img.shields.io/badge/Docker-20.10.7-blue)
@@ -8,7 +11,22 @@
 ![VLLM](https://img.shields.io/badge/VLLM-0.6.4-orange)
 ![SBERT](https://img.shields.io/badge/SBERT-bert--base--nli--mean--tokens-teal)
 ![Model](https://img.shields.io/badge/LMM-Microsoft%2FPhi--3.5--vision--instruct-blue)
+
+---
+
+<p align="center">
+  <a href="https://github.com/JJong84/ALLeX">
+  </a>
+    <a href="https://github.com/SeungjaeLim/Efficient-Road-Repairs-System/blob/main/Final%20Project.pdf">Presentation</a>
+    <a>&emsp;&emsp;</a>
+    <a href="https://github.com/SeungjaeLim/Efficient-Road-Repairs-System/blob/main/Demo.mp4">Demo Video</a>
+  </p>
+  
+
+
+</p>
 ![{A2C834C0-711F-4A9C-9916-E827ECB52532}](https://github.com/user-attachments/assets/dae2d157-4d90-4ccf-a951-39a15e33ac27)
+
 ## Overview
 
 The **Efficient Road Repairs System** utilizes **FPGA-porting** of **YOLO** to detect road damage through vehicle black boxes during driving. The system employs a Large **Multi-modal Model (LMM) RAG** to generate repair cost estimates and stores this information in a **GS1 EPCIS** server, enabling centralized governmental management by web.
